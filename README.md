@@ -7,13 +7,6 @@ Tout d'abord, voici la composition de notre groupe:
 **Pierre HERNANDEZ**
 **Adrian PETRICEVIC**
 
-Groupe de 3 (récap des membres)
-1 - Sujet - quelques lignes descriptives
-2 - URL repo github
-3 - Etat de 'l'existant : liens vers des projets similaires
-4 - Particularités de votre projet
-5 - Matériel envisagé
-
 # ETAT DE L'EXISTANT
 Source pouvant nous guider:
 https://selfhostedhome.com/wifi-rgb-led-strip-music-visualization/
@@ -22,13 +15,13 @@ https://create.arduino.cc/projecthub/Joao_Claro/arduino-beat-detector-d0a21f
 
 # DESCRIPTION DU PROJET
 
-Notre projet **TEMPO-LUMINO** est une boite lumineuse adaptable en fonction des sonorités et du rythmes par rapport aux sons d'un instrument de musique.
-Pour faire simple, des LEDs seront accrochées à une guitare (ainsi que la WEMOS) et permettront grâce aux différents son procurés par l'instrument une lumière d'ambiance s'adaptant au rythme d'une musique.
+Notre projet **TEMPO-LUMINO** est une boîte lumineuse adaptable en fonction des sonorités et des rythmes par rapport aux sons d'un instrument de musique.
+Pour faire simple, des LEDs seront accrochées à une guitare (ainsi que la WEMOS) et permettront grâce aux différents sons procurés par l'instrument de produire une lumière d'ambiance s'adaptant au rythme d'une musique.
 
 ## Particularités de notre projet
 
-Ce n'est pas une simple boite à lumière qui réagit en fonction du son, elle approfondit réellement le coté ambiance grâce à l'attenuation de lumière lors de la génération de son aiguë ou grave.
-Il y a aussi un système de sauvegarde qui permettra de garder les données ingéré et ainsi même sans son pouvoir régénérer le flux lumineux que l'enregistrement peut procurer.
+Ce n'est pas une simple boîte à lumière qui réagit en fonction du son, elle approfondit réellement le coté ambiance grâce à l'attenuation de lumière lors de la génération de son aiguë ou grave.
+Il y a aussi un système de sauvegarde qui permettra de garder les données ingérées et ainsi, même sans son, de pouvoir régénérer le flux lumineux que l'enregistrement peut procurer.
 
 ## Matériel envisagé
 
