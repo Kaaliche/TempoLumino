@@ -13,6 +13,11 @@ Groupe de 3 (récap des membres)
 3 - Etat de 'l'existant : liens vers des projets similaires
 4 - Particularités de votre projet
 5 - Matériel envisagé
+
+# ETAT DE L'EXISTANT
+Source pouvant nous guider:
+https://selfhostedhome.com/wifi-rgb-led-strip-music-visualization/
+
 # DESCRIPTION DU PROJET
 
 Notre projet **TEMPO-LUMINO** est une boite lumineuse adaptable en fonction des sonorités et du rythmes par rapport aux sons d'un instrument de musique.
