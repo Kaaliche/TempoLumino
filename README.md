@@ -17,6 +17,8 @@ Groupe de 3 (récap des membres)
 # ETAT DE L'EXISTANT
 Source pouvant nous guider:
 https://selfhostedhome.com/wifi-rgb-led-strip-music-visualization/
+https://www.robot-maker.com/forum/topic/8199-traitement-audio-via-arduino/
+https://create.arduino.cc/projecthub/Joao_Claro/arduino-beat-detector-d0a21f
 
 # DESCRIPTION DU PROJET
 
