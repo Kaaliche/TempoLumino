@@ -13,6 +13,8 @@ https://selfhostedhome.com/wifi-rgb-led-strip-music-visualization/
 https://www.robot-maker.com/forum/topic/8199-traitement-audio-via-arduino/
 https://create.arduino.cc/projecthub/Joao_Claro/arduino-beat-detector-d0a21f
 
+http://wiki.openmusiclabs.com/
+
 # DESCRIPTION DU PROJET
 
 Notre projet **TEMPO-LUMINO** est une boîte lumineuse adaptable en fonction des sonorités et des rythmes par rapport aux sons d'un instrument de musique.
