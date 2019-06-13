@@ -9,11 +9,16 @@ Tout d'abord, voici la composition de notre groupe:
 
 # ETAT DE L'EXISTANT
 Source pouvant nous guider:
+
 https://selfhostedhome.com/wifi-rgb-led-strip-music-visualization/
+
 https://www.robot-maker.com/forum/topic/8199-traitement-audio-via-arduino/
+
 https://create.arduino.cc/projecthub/Joao_Claro/arduino-beat-detector-d0a21f
 
 http://wiki.openmusiclabs.com/
+
+https://github.com/G6EJD/ESP32-8-Octave-Audio-Spectrum-Display
 
 # DESCRIPTION DU PROJET
 
