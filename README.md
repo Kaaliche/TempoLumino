@@ -43,19 +43,3 @@ Micro Amplificateur de son (micro à membrane passif permettant la capture de so
 ## Schéma de placement du matériel sur bread Board
 
 ![Imgur](https://i.imgur.com/VsRkwRn.png)
-
-## Schéma de placement du produit sur l'instrument et instruction d'utilisation
-
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-
-
-
-
-
-
-
-
-
-
-############################
