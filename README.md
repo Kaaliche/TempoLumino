@@ -1,6 +1,8 @@
 # TEMPO LUMINO
 Bonjour, bienvenue sur cette page de présentation de notre projet. 
 
+![Imgur](https://i.imgur.com/XwlHCOU.jpg)
+
 # COMPOSITION DU GROUPE
 Tout d'abord, voici la composition de notre groupe:
 **Charles TARDY**
@@ -40,7 +42,7 @@ Micro Amplificateur de son (micro à membrane passif permettant la capture de so
 
 ## Schéma de placement du matériel sur bread Board
 
-Schéma BB
+![Imgur](https://i.imgur.com/VsRkwRn.png)
 
 ## Schéma de placement du produit sur l'instrument et instruction d'utilisation
 
