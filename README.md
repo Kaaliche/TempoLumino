@@ -43,3 +43,13 @@ Micro Amplificateur de son (micro à membrane passif permettant la capture de so
 ## Schéma de placement du matériel sur bread Board
 
 ![Imgur](https://i.imgur.com/VsRkwRn.png)
+
+## Librairies utilisées
+
+https://github.com/espressif/arduino-esp32
+
+https://github.com/squix78/esp8266-oled-ssd1306
+
+https://github.com/kosme/arduinoFFT 
+
+https://github.com/esp8266/Arduino
