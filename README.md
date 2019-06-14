@@ -34,11 +34,11 @@ Il y a aussi un système de sauvegarde qui permettra de garder les données ing�
 
 ## Matériel envisagé
 
-Bread Board [Img Bread Board]
-WEMOS R1 D1 Mini *2 [Img Wemos]
-LED ou plaque à LED [Img LED]
-Micro Piezzo (capacité à capter le sons aigue) [Img Piezzo]
-Micro Amplificateur de son (micro à membrane passif permettant la capture de son à basse fréquence)[Img Micro Grave]
+Bread Board
+WEMOS R1 D1 Mini *2
+LED ou plaque à LED
+Micro Piezzo (capacité à capter le sons aigue)
+Micro Amplificateur de son (micro à membrane passif permettant la capture de son à basse fréquence)
 
 ## Schéma de placement du matériel sur bread Board
 
